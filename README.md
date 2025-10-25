@@ -3,7 +3,7 @@
 ### About Me
 
 👋 Hi, I'm Lingga M<br>
-👨🏻‍💻 Derivatives Trader, Network Engineer & Frontend Developer<br>
+👨🏻‍💻 Derivatives Trader, Network Engineer & Frontend<br>
 🏢 14+ years of IT experience
 
 ### Tech Stack
